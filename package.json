@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "tinymce": "^4.7.7",
+    "tinymce": "https://github.com/tulsan963/tinymce-dist/archive/refs/tags/tinymce-dist-4.9.12.tar.gz",
     "vue": "^2.5.13",
     "vue-template-compiler": "^2.5.13"
   },
